@@ -2,6 +2,8 @@
 
 Welcome to the workshop! This is where session resources will live.
 
+If you're computer isn't set up for web development, check out the setup guide [here](https://github.com/nicole-a-tesla/os_contribution_workshop/blob/master/getting_started.md)
+
 ### Sample walkthrough repo: 
 [✨Puffin Facts✨](https://github.com/nicole-a-tesla/puffin_facts)
 
