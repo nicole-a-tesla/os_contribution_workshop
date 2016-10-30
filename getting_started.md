@@ -12,7 +12,7 @@ If you don't already have one, sign up for an account [here](https://github.com/
 
 ## Step 2: Install Git
 
-Type this into your terminal: `git --version`. If that prints our a version number, skip to step 3. If not, follow [this guide](https://www.atlassian.com/git/tutorials/install-git/) to get git set up. If you're on a Mac, I recommend following the Homebrew installation instructions.
+Type this into your terminal: `git --version`. If that prints our a version number, skip to step 3. If not, follow [this guide](https://help.github.com/articles/set-up-git/#setting-up-git) to get git set up.
 
 
 ## Step 3: Install Sublime Text

@@ -20,11 +20,7 @@ If you're computer isn't set up for web development, check out the setup guide [
 
 [Oppia](https://github.com/oppia/oppia)
 
-- Python/Django project for building interactive lessons. (Check out their contributor wiki for ways for non-engineers to contribute!)
-
-[Wger](https://github.com/wger-project/wger)
-
-- Python/Django fitness tracker. Checkout `bitesize` label for time-crunch and beginner friendly issues.  
+- Python/Django project for building interactive lessons. (Check out their [contributor wiki](https://github.com/oppia/oppia/wiki) for ways for non-engineers to contribute!)
 
 
 ### Other resources
@@ -39,9 +35,9 @@ If you're computer isn't set up for web development, check out the setup guide [
 
 Here are some great resources for finding projects in the future:
 
-[Up For Grabs](http://up-for-grabs.net/)
-
 [Issue Hub](http://issuehub.io/)
+
+[Up For Grabs](http://up-for-grabs.net/)
 
 [OpenHatch](https://openhatch.org/)
 
